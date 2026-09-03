@@ -1,0 +1,2 @@
+FileName,Format,Size,SHA256,Severity,Anomalies
+"example.bin",UNKNOWN,55,c1f8311623c616624c92ec3065d6d7b5d66757f8b8c36ae992fe0199cee11b7e,Info,"UNSUPPORTED_FORMAT"
