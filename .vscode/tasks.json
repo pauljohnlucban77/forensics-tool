@@ -1,0 +1,9 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "build", "command": "dotnet build ForensicsTool.sln", "type": "shell", "group": { "kind": "build", "isDefault": true }, "problemMatcher": "$msCompile" },
+    { "label": "test", "command": "dotnet test ForensicsTool.sln", "type": "shell", "problemMatcher": "$msCompile" },
+    { "label": "restore", "command": "dotnet restore", "type": "shell" },
+    { "label": "clean", "command": "dotnet clean ForensicsTool.sln", "type": "shell" }
+  ]
+}

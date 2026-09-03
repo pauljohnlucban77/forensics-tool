@@ -1,0 +1,32 @@
+[
+  {
+    "FileName": "example.bin",
+    "FullPath": "C:\\Users\\Paul John Lucban\\Documents\\forensics tool\\samples\\example.bin",
+    "Size": 55,
+    "LastWriteTimeUtc": "2026-09-03T13:36:53.1449368+00:00",
+    "CreationTimeUtc": "2026-09-03T13:36:53.0878171+00:00",
+    "DetectedFormat": "UNKNOWN",
+    "DeclaredExtension": ".bin",
+    "Md5": "1dd25a66f51395828963e31457c0e822",
+    "Sha1": "7589ae8017c3e019a02cfd2558f05990a2439b54",
+    "Sha256": "c1f8311623c616624c92ec3065d6d7b5d66757f8b8c36ae992fe0199cee11b7e",
+    "Metadata": [],
+    "Gps": null,
+    "Anomalies": [
+      {
+        "Code": "UNSUPPORTED_FORMAT",
+        "Severity": "Info",
+        "Description": "No metadata parser is registered for UNKNOWN."
+      }
+    ],
+    "Custody": {
+      "AnalyzedAtUtc": "2026-09-03T13:36:57.2523265+00:00",
+      "Analyst": "Synthetic",
+      "Operation": "metadata-analysis",
+      "Sha256": "c1f8311623c616624c92ec3065d6d7b5d66757f8b8c36ae992fe0199cee11b7e",
+      "Size": 55
+    },
+    "IsPartial": false,
+    "HighestSeverity": "Info"
+  }
+]
