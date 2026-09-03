@@ -1,0 +1,5 @@
+{
+  "dotnet.defaultSolution": "ForensicsTool.sln",
+  "csharp.format.enable": true,
+  "files.exclude": { "**/bin": true, "**/obj": true }
+}
